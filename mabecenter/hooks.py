@@ -84,9 +84,9 @@ app_license = "mit"
 
 
 # after_install = "mabecenter.install.after_install"
-before_install = "mabecenter.installer.before_install"
+#before_install = "mabecenter.installer.before_install"
 
-after_migrate = "mabecenter.installer.before_install"
+#after_migrate = "mabecenter.installer.before_install"
 
 # setup wizard
 setup_wizard_requires = "assets/mabecenter/js/setup_wizard.js"
